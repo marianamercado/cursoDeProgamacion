@@ -3,3 +3,16 @@ buscamos el programa llamado git bash y lo abrimos
 ls es lo mismo que dir pero en linux
 cls es clear
 lo demas es igual
+
+cambiar entre ventanas
+ALT y tab
+
+pegar en bash
+con click derecho
+
+mover entre los tabs (pestanas) de chrome
+crtl y tab   derecha
+crtl shift tab
+
+
+	
