@@ -1,0 +1,30 @@
+cambiar de carpeta
+cd
+
+Ver contenido carpeta
+dir
+
+devolverse un nivel hacia arriba
+cd .. 
+
+devolverse dos nivel hacia arriba
+cd ../..
+
+devolverse tres nivel hacia arriba
+cd ../../..
+
+borrar consola
+cls
+
+correr node
+node y enter
+copiar algo desde consola
+ctrl+shift+c
+nuestro programa es
+console.log("hola mundo") 
+
+correr archivo html desde visual studio
+click derecho y click en open with line server
+
+
+

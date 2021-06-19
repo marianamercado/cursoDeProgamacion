@@ -1,0 +1,5 @@
+buscamos el programa llamado git bash y lo abrimos
+
+ls es lo mismo que dir pero en linux
+cls es clear
+lo demas es igual
