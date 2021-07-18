@@ -1,0 +1,13 @@
+La hoja de estilo en cascada ,cascading style sheets
+size:tamaño
+weight: peso
+bold:negrilla
+letter:letra
+spacing:espacio
+word:palabra
+height:altura
+width:ancho
+line:linea
+lowercase: minuscula
+capital:mayuscula
+uppercase:mayuscula
